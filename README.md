@@ -113,7 +113,7 @@ rsem-calculate-expression \
 
 
 ## Citation
-Bagheri A., Dewey C., Stewart R., Jiang P. CRSP: Comparative RNA-seq pipeline for species lacking both a reference genome and annotated transcriptome (Submitted)
+A Nile Grass Rat Transcriptomic BodyMap Across 22 Organs By Ultra-deep Sequencing and Comparative RNA-seq pipeline (CRSP) (In Preparation)
 
 ## Contact 
 ```
