@@ -113,7 +113,7 @@ rsem-calculate-expression \
 
 
 ## Citation
-A Nile Grass Rat Transcriptomic BodyMap Across 22 Organs By Ultra-deep Sequencing and Comparative RNA-seq pipeline (CRSP) (In Preparation)
+A Nile Grass Rat Transcriptomic Landscape Across 22 Organs By Ultra-deep Sequencing and Comparative RNA-seq pipeline (CRSP)(Submitted)
 
 ## Contact 
 ```
